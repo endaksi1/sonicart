@@ -22,3 +22,8 @@ https://vimeo.com/25175013 <br>
 I like the idea of working on this piece as I feel that contemprary Dance music can be very synthetic, which could be pulling peoples attention away from the real world. This is seen very much in a visual sense also as many people choose to spend more and more time consuming digital media such as video games etc.. I feel that EDM may be doing a similar thing in the sense that many of the sounds that are used are not heard in the naturel would.<br>
 <br>
 <br>
+
+**Week Four** - *18/02/2019*<br>
+<br>
+This week I headed to thetford forest to record a bunch of different sounds. many of the sounds were of snaping branches and sticks. I also recorded lots of footsteps as the floor was covered in leaves and twigs, which made some nice recordings with a natural feel.<br>
+Whilst I was there, I also recorded some videos, which I hope to edit later and play along side the composition as a way to make the piece more immersive.
