@@ -1,6 +1,8 @@
 
 **Week Five** - *25/02/2019*<br>
 <br>
+In [this](https://science.howstuffworks.com/why-do-get-so-much-pleasure-from-symmetry.htm) article, Dave Roos mentions how Humans are so attracted to symmetery because it's familar as it is so frequently found in nature.
+<br>
 ***To Do***<br>
 * Edit Videos<br>
 * Compose Soundscapes <br>
