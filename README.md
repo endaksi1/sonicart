@@ -1,10 +1,17 @@
 
-**Week Five** - *24/02/2019*<br>
+**Week Five** - *25/02/2019*<br>
 <br>
-**Abstract -**<br>
+***To Do***<br>
+* Edit Videos<br>
+* Compose Soundscapes <br>
+* Begin creating Max patch <br>
+* Connect Sensors to Max using Arduino <br>
+* Compose or source ambient music <br>
+<br>
+***Abstract -***<br>
 As technology is now more ingrained into our society than ever I feel that this has caused us to become somewhat disconnected from reality and thus our awareness of the relationship between ourselves and nature is diminishing. This has resulted in the assured decimation of our natural resources of which we used to deem to be so sacred. Through my sonic art project, I hope to raise peoples awareness of this issue by creating an immersive and serene audio-visual experience using mostly recorded footage from natural forest environments, which will be accompanied by some subtle ambient music. for the visuals, I will be using certain editing techniques to create a symmetrical effect as a way of maintaining interest throughout the experience, whilst also keeping to a certain level of realism in the footage. I will also be using other perhaps unnatural sounds and footage as an abrasive interruption to the experience, which I hope will highlight some of the issues that I previously mentioned. In order to make this experience more interactive, I will be using MAX/MSP to trigger some of the sounds and videos using ultrasonic sensors.<br>
-**keywords -** Soundscapes, Nature, Forest, Interactive, Mirror Image Visuals, Nature Walk, Disconnected, trees, wind, Symmetry
-
+***keywords -*** Soundscapes, Nature, Forest, Interactive, Mirror Image Visuals, Nature Walk, Disconnected, trees, wind, Symmetry<br>
+<br>
 **Week Four** - *18/02/2019*<br>
 <br>
 This week I headed to thetford forest to record a bunch of different sounds. many of the sounds were of snaping branches and sticks. I also recorded lots of footsteps as the floor was covered in leaves and twigs, which made some nice recordings with a natural feel.<br>
