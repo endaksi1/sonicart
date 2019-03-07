@@ -1,3 +1,14 @@
+**Week six** - *4/03/2019*<br>
+<br>
+This week I edited the videos for my project. I started by mirror imaging each video in iMovie (I had 3 in total). This involved cropping the video, then creating a duplicate and playing both copies side by side in a split screen format, then finally i inverted one of the videos, which gave the effect that it was mirroing the other. <br>
+<br>
+After doing this for all 3 videos and exporting them individually, I then imported all of them into a new project and used a fade effect to transistion between each video. I then decided to have moments throughout the video where the footage would reverse for a certain amount of time and would then continue playing forward. To create this effect I had to cut out the section of the video that I wanted to reverse and then create 3 copies of that section that where playing after each other. I then took the middle copy and reversed the footage. doing it this way made for a seamless transition betwen the forward playing footage and the backwards playing footage as the starts and ends of each clip are now matching.
+<br>
+I choose to use the reverse effect as I wanted to highlight certain giometric patterns that where gerated from the mirror image effect. This did however give me a longer video than I originally wanted, so I decided to x2 the play speed of the video, which I felt also made certain part more interesting. I may go back over the footage and have certina parts play through slower than others, but I havn't decided wheather I would like that or not just yet.<br>
+<br>
+I also began work on the composition this week. I started by opening all of my thetford forest recordings in ableton and playing through each recording and taking out any unwanted sounds, such as moments of audio clipping caused by the wind and any convosation that I had picked up.<br>
+As I was unable to record any clear bird sounds whilst at thetford due to the wind, I decided to take a audio recording from youtube instead. This added to the natural vibe that i was trying to achieve with this composition.
+
 
 **Week Five** - *25/02/2019*<br>
 <br>
