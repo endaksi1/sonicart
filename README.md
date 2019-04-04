@@ -1,6 +1,44 @@
 
 ## logbook
 
+**Week eight** - *18/03/2019*<br>
+This week I decided to create a feedback questionaire, which I sent out with a link to the project to a few people that I felt  this poject would appeal too. <br>
+I chose to send the project to friends as I felt that this would be the best way to get some quick feedback, but if I had more time I would have chosen to get feedback from a larger group of people and preferably from people that I don't know as this would hopefully eliminate any biases<br>
+Below is the message/questions that I sent out;<br>
+<br>
+here's a brief background;<br>
+For this project, I have taken separate audio and visual recordings from Thetford forest and combined them with some editing tricks in order to create a piece of media that will engage the audience and help to create a sense of calm. I also hope to encourage people who experience this piece to recognise and become more aware of their relationship with nature.<br>
+<br>
+This link to the video is here; https://youtu.be/jLlRmhApDQc<br>
+<br>
+I'd suggest watching in 1080p and using headphone would be best.<br>
+<br>
+Here are the questions;<br>
+<br>
+1.
+How did you feel about the length of the piece? did you feel that it was too long or too short?<br>
+<br>
+2.
+Do you feel that this piece achieved the result of encouraging you to feel calmer and more connected with nature? If not, is there anything you feel would help with this?<br>
+<br>
+3.
+Do you feel that this piece would benefit from the use of some calm ambient music, or do you prefer it as it is with the plain nature sounds?<br>
+<br>
+4.
+Do you feel that the mirror image effect on the video made this piece more engaging, or would you have prefered to have seen unedited video footage?<br>
+<br>
+5.
+Is there any other additional feedback you feel would help me to improve this project?<br>
+<br>
+
+and here is the video<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jLlRmhApDQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br>
+**Week seven** - *11/03/2019*<br>
+<br>
+I was away this week son unfortunatly was unable to work on this project.<br>
+<br>
 **Week six** - *4/03/2019*<br>
 <br>
 This week I edited the videos for my project. I started by mirror imaging each video in iMovie (I had 3 in total). This involved cropping the video, then creating a duplicate and playing both copies side by side in a split screen format, then finally i inverted one of the videos, which gave the effect that it was mirroing the other. <br>
@@ -10,9 +48,10 @@ After doing this for all 3 videos and exporting them individually, I then import
 I choose to use the reverse effect as I wanted to highlight certain giometric patterns that where gerated from the mirror image effect. This did however give me a longer video than I originally wanted, so I decided to x2 the play speed of the video, which I felt also made certain part more interesting. I may go back over the footage and have certina parts play through slower than others, but I havn't decided wheather I would like that or not just yet.<br>
 <br>
 I also began work on the composition this week. I started by opening all of my thetford forest recordings in ableton and playing through each recording and taking out any unwanted sounds, such as moments of audio clipping caused by the wind and any convosation that I had picked up.<br>
-As I was unable to record any clear bird sounds whilst at thetford due to the wind, I decided to take a audio recording from youtube instead. This added to the natural vibe that i was trying to achieve with this composition.
+As I was unable to record any clear bird sounds whilst at thetford due to the wind, I decided to take a audio recording from youtube instead. This added to the natural vibe that i was trying to achieve with this composition.<br>
 
-
+<br>
+<br>
 **Week Five** - *25/02/2019*<br>
 <br>
 In [this](https://science.howstuffworks.com/why-do-get-so-much-pleasure-from-symmetry.htm) article, Dave Roos mentions how Humans are so attracted to symmetery because it's familar as it is so frequently found in nature.<br>
