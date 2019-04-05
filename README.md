@@ -1,6 +1,73 @@
 
 ## logbook
 
+**Week Nine** - *18/03/2019*<br>
+
+
+**Week Nine** - *18/03/2019*<br>
+
+<br>
+**Week Eight** - *18/03/2019*<br>
+<br> 
+By mid week I had recieved the feedback for the project, which I will display below<br>
+I will be taking all of the feedback into consideration before completeing the project.
+<br>
+***Feedback 1***<br>
+<br>
+1. <br>
+I think the answer to this question is a direct response to the need your addressing from the piece. I didn't feel at any point that the length of the piece was an issue and didn't feel bored or disengaged.<br>
+<br>
+2. <br>
+In some ways I think so. I definitely felt calm and engaged while watching and listening to this. I was sceptical at first but within a few seconds that passed. My initial reaction was a disbelief that the mirrored effect would be soothing but actually I think it contributed quite well to it once my mind had relaxed a little. I think there were parts of the visual aspect that I found more soothing than others such as the trees specifically, separating more so than coming inwards. When the focus was on the ground that was less soothing. The audio side of things felt like it was a little noisy and a clearer, crisper sound would be more beneficial. The sound of the birds was very relaxing and surprisingly so we're the leaves crunching underfoot.<br>
+<br>
+3.<br> 
+I don't think music would be beneficial here and would take away from the natural nature of the piece.<br>
+<br>
+4. <br>
+As I said before, the mirror effect was engaging but perhaps a focus on a stationary point in one direction of movement might be a little more relaxing. I found the motion and floor panning a little less relaxing.<br>
+<br>
+5. <br>
+It was interesting and actually a surprise at the effect<br>
+<br>
+<br>
+
+***Feedback 2***<br>
+<br>
+1.<br>
+- For me this was a matter of movement, i think if the motion was slower i felt it could have a long duration.<br>
+<br>
+2.<br>
+- Generally i felt like the sudden movement of the camera causes the opposite emotion and doesn’t flow with the sparse nature.<br> 
+<br>
+3.<br>
+- Within an ASMR context i think without music goes well but perhaps some occasional sound of wind or something of that nature. if not, music would serve well (possibly try out alpha waves, seem to be as effective as youtube nature sounds for me personally)<br>
+<br>
+4.<br>
+- I think if its going to be a calming experience, movement would need to represent it, i think any effect or however many effects is fine but maybe consider crossfades if too contra to the flow. <br>
+<br>
+5.<br>
+In the words of Samuel L Jackson - “slow thing down, way down”<br>
+<br>
+<br>
+***Feedback 3***<br>
+<br>
+1. <br>
+I didn’t watch the whole video but I think 20 minutes is too much to keep someone engaged, probably 5-10 mins would be enough to give the listener/viewer an idea<br>
+<br>
+2. <br>
+It did make me feel as if I was in nature so I guess connected with it as well and it calmed me down in a nice way.<br>
+<br>
+3. <br>
+Some ambient sounds could possibly help but I personally like the sounds of nature to be presented as they come from it<br>
+<br>
+4. <br>
+The mirror effect is I think what made the project very interesting it would be hard to keep on watching it if there was no effect, it give that trippy feeling that I really like…<br>
+<br>
+5. <br>
+I don’t have anything else to suggest I think it’s good as it is <br>
+
+<br>
+<br>
 **Week eight** - *18/03/2019*<br>
 This week I decided to create a feedback questionaire, which I sent out with a link to the project to a few people that I felt  this poject would appeal too. <br>
 I chose to send the project to friends as I felt that this would be the best way to get some quick feedback, but if I had more time I would have chosen to get feedback from a larger group of people and preferably from people that I don't know as this would hopefully eliminate any biases<br>
@@ -29,17 +96,14 @@ Do you feel that the mirror image effect on the video made this piece more engag
 <br>
 5.
 Is there any other additional feedback you feel would help me to improve this project?<br>
-<br>
 
-and here is the video<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jLlRmhApDQc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
 **Week seven** - *11/03/2019*<br>
 <br>
 I was away this week son unfortunatly was unable to work on this project.<br>
 <br>
-**Week six** - *4/03/2019*<br>
+**Week Six** - *4/03/2019*<br>
 <br>
 This week I edited the videos for my project. I started by mirror imaging each video in iMovie (I had 3 in total). This involved cropping the video, then creating a duplicate and playing both copies side by side in a split screen format, then finally i inverted one of the videos, which gave the effect that it was mirroing the other. <br>
 <br>
