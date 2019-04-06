@@ -1,21 +1,20 @@
-
 ## logbook
 
 **Week Nine** - *18/03/2019*<br>
-Based on the feedback I recieved for this project I decided to implement a few changes that I feel will improve the over all immersion of the piece. Firstly, one person stated that the piece would be more relaxing if it were slowed down even more than the original speed. After trying this out, I agreed and chose to implement this change. I tried with a couple of different speeds, but eventually settled for 65% of the original speed. I really liked the content like this and agree with the feedback that it is more relaxing thant the original speed.<br>
-As slowing the piece down caused it to be a much longer duration I made the decition to remove of the footage the first two locations out of the origianl three that I had recorded. I feel that the third location was the brightest and best quality so I choose to use this one out of the three. removing the first 2 locations from the footage, this choice also solved another issue mentioned in the feedback, as some of the feedback from one of the other partisipants stats that the parts where the camera pans to the ground seemed less relaxing than the rest of the fottage. Watching back over the footage although i found this part was interesting to look at I agree that it is less relaxing, whitch is what I am trying to achieve with this piece. As it happens the shots of the ground only takes place in the recording of the first two locations, so this problem was also solved.<br>
+Based on the feedback I received for this project I decided to implement a few changes that I feel will improve the overall immersion of the piece. Firstly, one person stated that the piece would be more relaxing if it were slowed down even more than the original speed. After trying this out, I agreed and chose to implement this change. I tried with a couple of different speeds but eventually settled for 65% of the original speed. I really liked the content like this and agree with the feedback that it is more relaxing than the original speed.<br>
+As slowing the piece down caused it to be a much longer duration I made the decision to remove the footage the first two locations out of the original three that I had recorded. I feel that the third location was the brightest and best quality so I choose to use this one out of the three. removing the first 2 locations from the footage, this choice also solved another issue mentioned in the feedback, as some of the feedback from one of the other participants stats that the parts where the camera pans to the ground seemed less relaxing than the rest of the footage. Watching back over the footage although I found this part was interesting to look at I agree that it is less relaxing, which is what I am trying to achieve with this piece. As it happens the shots of the ground only take place in the recording of the first two locations, so this problem was also solved.<br>
 <br>
 
 **Week Nine** - *18/03/2019*<br>
-As didscussed with krisztian I have looked further into trhe sources from the article on symmetry that referenced a few weeks ago, whitch can be found [Here](https://science.howstuffworks.com/why-do-get-so-much-pleasure-from-symmetry.htm)<br>
+As discussed with krisztian I have looked further into the sources from the article on symmetry that referenced a few weeks ago, which can be found [Here](https://science.howstuffworks.com/why-do-get-so-much-pleasure-from-symmetry.htm)<br>
 <br>
-In ['The Accidental Universe: The World You Thought You Knew'](http://motivatedmastery.com/science-of-symmetry/), Phisicist 'Alan Lightman', states that human beings are drawn to symmetry, because it is found all around us in nature and as we ourselves including the neurons in our brains are also made of the same particles and are also a part of nature it is due to nature that we are so drawn to symmetry.<br>
-Lightman also mentions how honey Bee's when creating their hives will make hexagons rather than any other shape because shapes with flat sides that can easily tessellate save space, which makes for better econemy. He then goes on to mention how humans will naturally create symmetry as our brains are hard wired to create order out of chaos.<br>
-When quato from Lightman that i feel sums up his work nicely is' ***"Symmetry is also economy. Symmetry is simplicity. Symmetry is elegance."*** <br>
+In ['The Accidental Universe: The World You Thought You Knew'](http://motivatedmastery.com/science-of-symmetry/), Physicist 'Alan Lightman', states that human beings are drawn to symmetry, because it is found all around us in nature and as we ourselves including the neurons in our brains are also made of the same particles and are also a part of nature it is due to nature that we are so drawn to symmetry.<br>
+Lightman also mentions how honey Bee's when creating their hives will make hexagons rather than any other shape because shapes with flat sides that can easily tessellate save space, which makes for better economy. He then goes on to mention how humans will naturally create symmetry as our brains are hard-wired to create order out of chaos.<br>
+When quite from Lightman that I feel sums up his work nicely is' ***"Symmetry is also economy. Symmetry is simplicity. Symmetry is elegance."*** <br>
 <br>
 
 <br>
-Moving away from the visual aspect of this project and on to the audio side, I have also been doing some research on the effects of nature sounds and wheather or not they will actually make you feel more relaxed. In an article on [Science daily](https://www.sciencedaily.com/releases/2017/03/170330132354.htm) Researchers at Brighton and Sussex Medical School (BSMS)  lead by Dr Cassandra Gould van Praag have been researching this very subject. In their research cassandra and her team have found that listening to natural sounds do promote relaxation. They achieved this by monoriring the heart and the brain whilst playing back natural and artificial sounds.<br>
+Moving away from the visual aspect of this project and on to the audio side, I have also been doing some research on the effects of nature sounds and whether or not they will actually make you feel more relaxed. In an article on [Science daily](https://www.sciencedaily.com/releases/2017/03/170330132354.htm) Researchers at Brighton and Sussex Medical School (BSMS), lead by Dr Cassandra Gould van Praag has been researching this very subject. In their research, Cassandra and her team have found that listening to natural sounds to promote relaxation. They achieved this by monitoring the heart and the brain whilst playing back natural and artificial sounds.<br>
 Here is an excerpt from the research; *"When listening to natural sounds, the brain connectivity reflected an outward-directed focus of attention; when listening to artificial sounds, the brain connectivity reflected an inward-directed focus of attention, similar to states observed in anxiety, post-traumatic stress disorder and depression. There was also an increase in rest-digest nervous system activity (associated with relaxation of the body) when listening to natural compared with artificial sounds, and better performance in an external attentional monitoring task."* <br>
 
 
@@ -24,16 +23,16 @@ Here is an excerpt from the research; *"When listening to natural sounds, the br
 <br>
 **Week Eight** - *18/03/2019*<br>
 <br> 
-By mid week I had recieved the feedback for the project, which I will display below<br>
-I will be taking all of the feedback into consideration before completeing the project.
+By mid-week, I had received the feedback for the project, which I will display below<br>
+I will be taking all of the feedback into consideration before completing the project.
 <br>
 ***Feedback 1***<br>
 <br>
 1. <br>
-I think the answer to this question is a direct response to the need your addressing from the piece. I didn't feel at any point that the length of the piece was an issue and didn't feel bored or disengaged.<br>
+I think the answer to this question is a direct response to the need you're addressing from the piece. I didn't feel at any point that the length of the piece was an issue and didn't feel bored or disengaged.<br>
 <br>
 2. <br>
-In some ways I think so. I definitely felt calm and engaged while watching and listening to this. I was sceptical at first but within a few seconds that passed. My initial reaction was a disbelief that the mirrored effect would be soothing but actually I think it contributed quite well to it once my mind had relaxed a little. I think there were parts of the visual aspect that I found more soothing than others such as the trees specifically, separating more so than coming inwards. When the focus was on the ground that was less soothing. The audio side of things felt like it was a little noisy and a clearer, crisper sound would be more beneficial. The sound of the birds was very relaxing and surprisingly so we're the leaves crunching underfoot.<br>
+In some ways, I think so. I definitely felt calm and engaged while watching and listening to this. I was sceptical at first but within a few seconds, that passed. My initial reaction was disbelief that the mirrored effect would be soothing but actually, I think it contributed quite well to it once my mind had relaxed a little. I think there were parts of the visual aspect that I found more soothing than others such as the trees specifically, separating more so than coming inwards. When the focus was on the ground that was less soothing. The audio side of things felt like it was a little noisy and a clearer, crisper sound would be more beneficial. The sound of the birds was very relaxing and surprisingly so we're the leaves crunching underfoot.<br>
 <br>
 3.<br> 
 I don't think music would be beneficial here and would take away from the natural nature of the piece.<br>
@@ -49,16 +48,16 @@ It was interesting and actually a surprise at the effect<br>
 ***Feedback 2***<br>
 <br>
 1.<br>
-- For me this was a matter of movement, i think if the motion was slower i felt it could have a long duration.<br>
+- For me this was a matter of movement, I think if the motion was slower I felt it could have a long duration.<br>
 <br>
 2.<br>
-- Generally i felt like the sudden movement of the camera causes the opposite emotion and doesn’t flow with the sparse nature.<br> 
+- Generally, I felt like the sudden movement of the camera causes the opposite emotion and doesn’t flow with the sparse nature.<br> 
 <br>
 3.<br>
-- Within an ASMR context i think without music goes well but perhaps some occasional sound of wind or something of that nature. if not, music would serve well (possibly try out alpha waves, seem to be as effective as youtube nature sounds for me personally)<br>
+- Within an ASMR context, I think without music goes well but perhaps some occasional sound of wind or something of that nature. if not, music would serve well (possibly try out alpha waves, seem to be as effective as youtube nature sounds for me personally)<br>
 <br>
 4.<br>
-- I think if its going to be a calming experience, movement would need to represent it, i think any effect or however many effects is fine but maybe consider crossfades if too contra to the flow. <br>
+- I think if it's going to be a calming experience, the movement would need to represent it, I think any effect or however many effects are fine but maybe consider crossfades if to contra to the flow. <br>
 <br>
 5.<br>
 In the words of Samuel L Jackson - “slow thing down, way down”<br>
@@ -84,7 +83,7 @@ I don’t have anything else to suggest I think it’s good as it is <br>
 <br>
 <br>
 **Week eight** - *18/03/2019*<br>
-This week I decided to create a feedback questionaire, which I sent out with a link to the project to a few people that I felt  this poject would appeal too. <br>
+This week I decided to create a feedback questionnaire, which I sent out with a link to the project to a few people that I felt this project would appeal too. <br>
 I chose to send the project to friends as I felt that this would be the best way to get some quick feedback, but if I had more time I would have chosen to get feedback from a larger group of people and preferably from people that I don't know as this would hopefully eliminate any biases<br>
 Below is the message/questions that I sent out;<br>
 <br>
@@ -116,24 +115,24 @@ Is there any other additional feedback you feel would help me to improve this pr
 <br>
 **Week seven** - *11/03/2019*<br>
 <br>
-I was away this week son unfortunatly was unable to work on this project.<br>
+I was away this week, unfortunately, was unable to work on this project.<br>
 <br>
 **Week Six** - *4/03/2019*<br>
 <br>
-This week I edited the videos for my project. I started by mirror imaging each video in iMovie (I had 3 in total). This involved cropping the video, then creating a duplicate and playing both copies side by side in a split screen format, then finally i inverted one of the videos, which gave the effect that it was mirroing the other. <br>
+This week I edited the videos for my project. I started by mirror imaging each video in iMovie (I had 3 in total). This involved cropping the video, then creating a duplicate and playing both copies side by side in a split screen format, then finally I inverted one of the videos, which gave the effect that it was mirroring the other. <br>
 <br>
-After doing this for all 3 videos and exporting them individually, I then imported all of them into a new project and used a fade effect to transistion between each video. I then decided to have moments throughout the video where the footage would reverse for a certain amount of time and would then continue playing forward. To create this effect I had to cut out the section of the video that I wanted to reverse and then create 3 copies of that section that where playing after each other. I then took the middle copy and reversed the footage. doing it this way made for a seamless transition betwen the forward playing footage and the backwards playing footage as the starts and ends of each clip are now matching.
+After doing this for all 3 videos and exporting them individually, I then imported all of them into a new project and used a fade effect to transition between each video. I then decided to have moments throughout the video where the footage would reverse for a certain amount of time and would then continue playing forward. To create this effect I had to cut out the section of the video that I wanted to reverse and then create 3 copies of that section that were playing after each other. I then took the middle copy and reversed the footage. doing it this way made for a seamless transition between the forward playing footage and the backwards playing footage as the starts and ends of each clip are now matching.
 <br>
-I choose to use the reverse effect as I wanted to highlight certain giometric patterns that where gerated from the mirror image effect. This did however give me a longer video than I originally wanted, so I decided to x2 the play speed of the video, which I felt also made certain part more interesting. I may go back over the footage and have certina parts play through slower than others, but I havn't decided wheather I would like that or not just yet.<br>
+I choose to use the reverse effect as I wanted to highlight certain geometric patterns that were generated from the mirror image effect. This did, however, give me a longer video than I originally wanted, so I decided to x2 the play speed of the video, which I felt also made certain parts more interesting. I may go back over the footage and have certain parts play through slower than others, but I haven't decided whether I would like that or not just yet.<br>
 <br>
-I also began work on the composition this week. I started by opening all of my thetford forest recordings in ableton and playing through each recording and taking out any unwanted sounds, such as moments of audio clipping caused by the wind and any convosation that I had picked up.<br>
-As I was unable to record any clear bird sounds whilst at thetford due to the wind, I decided to take a audio recording from youtube instead. This added to the natural vibe that i was trying to achieve with this composition.<br>
+I also began work on the composition this week. I started by opening all of my Thetford forest recordings in Ableton and playing through each recording and taking out any unwanted sounds, such as moments of audio clipping caused by the wind and any conversation that I had picked up.<br>
+As I was unable to record any clear bird sounds whilst at Thetford due to the wind, I decided to take an audio recording from youtube instead. This added to the natural vibe that I was trying to achieve with this composition.<br>
 
 <br>
 <br>
 **Week Five** - *25/02/2019*<br>
 <br>
-In [this](https://science.howstuffworks.com/why-do-get-so-much-pleasure-from-symmetry.htm) article, Dave Roos mentions how Humans are so attracted to symmetery because it's familar as it is so frequently found in nature.<br>
+In [this](https://science.howstuffworks.com/why-do-get-so-much-pleasure-from-symmetry.htm) article, Dave Roos mentions how Humans are so attracted to symmetry because it's familiar as it is so frequently found in nature.<br>
 <br>
 ***To Do***<br>
 * Edit Videos<br>
@@ -149,33 +148,33 @@ As technology is now more ingrained into our society than ever I feel that this 
 <br>
 **Week Four** - *18/02/2019*<br>
 <br>
-This week I headed to thetford forest to record a bunch of different sounds. many of the sounds were of snaping branches and sticks. I also recorded lots of footsteps as the floor was covered in leaves and twigs, which made some nice recordings with a natural feel.<br>
-Whilst I was there, I also recorded some videos, which I hope to edit later and play along side the composition as a way to make the piece more immersive.<br>
+This week I headed to Thetford forest to record a bunch of different sounds. many of the sounds were of snapping branches and sticks. I also recorded lots of footsteps as the floor was covered in leaves and twigs, which made some nice recordings with a natural feel.<br>
+Whilst I was there, I also recorded some videos, which I hope to edit later and play alongside the composition as a way to make the piece more immersive.<br>
 <br>
 **Week Three** - *11/02/2019*<br>
 <br>
-Inspired by the work of Jana Winderen and Emeka Ogboh, I have choosen to make my sonic art piece using soundscape type sounds and recordings, whilst also trying to keep certain elements inline with contemporary Electronic dance music. I also like the idea of creating a video that is similaer to the videos that Emeka Ogboh creates as a way to increase the immersivness of the piece.<br>
+Inspired by the work of Jana Winderen and Emeka Ogboh, I have chosen to make my sonic art piece using soundscape type sounds and recordings, whilst also trying to keep certain elements in line with contemporary Electronic dance music. I also like the idea of creating a video that is similar to the videos that Emeka Ogboh creates as a way to increase the level of immersion of the piece.<br>
 <br>
 https://africasacountry.com/2013/08/emeka-ogbohs-experimental-videos-and-soundscapes-of-lagos/ <br>
 <br>
 https://vimeo.com/25175013 <br>
 <br>
-I like the idea of working on this piece as I feel that contemprary Dance music can be very synthetic, which could be pulling peoples attention away from the real world. This is seen very much in a visual sense also as many people choose to spend more and more time consuming digital media such as video games etc.. I feel that EDM may be doing a similar thing in the sense that many of the sounds that are used are not heard in the naturel would.<br>
+I like the idea of working on this piece as I feel that contemporary Dance music can be very synthetic, which could be pulling peoples attention away from the real world. This is seen very much in a visual sense also as many people choose to spend more and more time consuming digital media such as video games etc.. I feel that EDM may be doing a similar thing in the sense that many of the sounds that are used are not heard in the natural world.<br>
 <br>
 <br>
 **Week Two** - *04/02/2019*<br>
 <br>
-After doing some research last week on Virtual Reality. I have realised that this may be a bit too difficult for me to achieve and so have decided to drop that aspect. I do however want to continue the Idea of working with recording nature type and enviroments.<br>
+After doing some research last week on Virtual Reality. I have realised that this may be a bit too difficult for me to achieve and so have decided to drop that aspect. I do however want to continue the Idea of working with recording nature type environments.<br>
 <br>
 <br>
 **Week One** - *28/01/2019*<br>
 <br>
-At the momemnt I am considering working with recordings of different enviroments and using sensors to manipulate sound and/or Video.<br>
-I would like to work with as many natural sounds as possible such as trees/sticks etc. I will likley record some sounds from Thetford foret for this.<br>
+At the moment I am considering working with recordings of different environments and using sensors to manipulate sound and/or Video.<br>
+I would like to work with as many natural sounds as possible such as trees/sticks etc. I will likely record some sounds from Thetford forest for this.<br>
 <br>
 Maybe incorporate a Virtual Reality headset where a picture/video is manipulated by the sensors as well as the sounds.<br>
 <br>
-I may also consider adding some heavy breathging soundeffects to add to the realism. <br>
-If I were to do this I may decide to use it to imitate some for of mental health issue. <br>
+I may also consider adding some heavy breathing sound effects to add to the realism. <br>
+If I were to do this I may decide to use it to imitate some form of mental health issue. <br>
 <br>
 <br>
