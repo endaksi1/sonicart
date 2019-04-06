@@ -2,7 +2,11 @@
 ## logbook
 
 **Week Nine** - *18/03/2019*<br>
-Based on the feedback I have decided to implement these (xyz) things into my project and the result was (123)
+Based on the feedback I recieved for this project I decided to implement a few changes that I feel will improve the over all immersion of the piece. Firstly, one person stated that the piece would be more relaxing if it were slowed down even more than the original speed. After trying this out, I agreed and chose to implement this change. I tried with a couple of different speeds, but eventually settled for 65% of the original speed. I really liked the content like this and agree with the feedback that it is more relaxing thant the original speed.<br>
+As slowing the piece down caused it to be a much longer duration I made the decition to remove of the footage the first two locations out of the origianl three that I had recorded. I feel that the third location was the brightest and best quality so I choose to use this one out of the three. removing the first 2 locations from the footage, this choice also solved another issue mentioned in the feedback, as some of the feedback from one of the other partisipants stats that the parts where the camera pans to the ground seemed less relaxing than the rest of the fottage. Watching back over the footage although i found this part was interesting to look at I agree that it is less relaxing, whitch is what I am trying to achieve with this piece. As it happens the shots of the ground only takes place in the recording of the first two locations, so this problem was also solved.<br>
+
+
+(xyz) things into my project and the result was (123)
 
 **Week Nine** - *18/03/2019*<br>
 As didscussed with krisztian I have looked further into trhe sources from the article on symmetry that referenced a few weeks ago, whitch can be found [Here](https://science.howstuffworks.com/why-do-get-so-much-pleasure-from-symmetry.htm)<br>
