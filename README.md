@@ -2,9 +2,22 @@
 ## logbook
 
 **Week Nine** - *18/03/2019*<br>
-
+Based on the feedback I have decided to implement these (xyz) things into my project and the result was (123)
 
 **Week Nine** - *18/03/2019*<br>
+As didscussed with krisztian I have looked further into trhe sources from the article on symmetry that referenced a few weeks ago, whitch can be found [Here](https://science.howstuffworks.com/why-do-get-so-much-pleasure-from-symmetry.htm)<br>
+<br>
+In ['The Accidental Universe: The World You Thought You Knew'](http://motivatedmastery.com/science-of-symmetry/), Phisicist 'Alan Lightman', states that human beings are drawn to symmetry, because it is found all around us in nature and as we ourselves including the neurons in our brains are also made of the same particles and are also a part of nature it is due to nature that we are so drawn to symmetry.<br>
+Lightman also mentions how honey Bee's when creating their hives will make hexagons rather than any other shape because shapes with flat sides that can easily tessellate save space, which makes for better econemy. He then goes on to mention how humans will naturally create symmetry as our brains are hard wired to create order out of chaos.<br>
+When quato from Lightman that i feel sums up his work nicely is' ***"Symmetry is also economy. Symmetry is simplicity. Symmetry is elegance."*** <br>
+<br>
+
+<br>
+Moving away from the visual aspect of this project and on to the audio side, I have also been doing some research on the effects of nature sounds and wheather or not they will actually make you feel more relaxed. In an article on [Science daily](https://www.sciencedaily.com/releases/2017/03/170330132354.htm) Researchers at Brighton and Sussex Medical School (BSMS)  lead by Dr Cassandra Gould van Praag have been researching this very subject. In their research cassandra and her team have found that listening to natural sounds do promote relaxation. They achieved this by monoriring the heart and the brain whilst playing back natural and artificial sounds.<br>
+Here is an excerpt from the research; *"When listening to natural sounds, the brain connectivity reflected an outward-directed focus of attention; when listening to artificial sounds, the brain connectivity reflected an inward-directed focus of attention, similar to states observed in anxiety, post-traumatic stress disorder and depression. There was also an increase in rest-digest nervous system activity (associated with relaxation of the body) when listening to natural compared with artificial sounds, and better performance in an external attentional monitoring task."* <br>
+
+
+
 
 <br>
 **Week Eight** - *18/03/2019*<br>
