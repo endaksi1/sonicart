@@ -1,5 +1,5 @@
-# Title of the artwork
-## Yannis Caff / 1605000
+# Rediscovering Nature
+## Yannis Caff
 
 Over the years, technology has become more ingrained in our society and our daily lives. This has caused many people to disconnect somewhat from reality. A result of this is the development of stress-related mental health issues in many people. Also, our awareness of the relationship between ourselves and nature is diminishing. This is assuring the decimation of our natural resources of which we used to deem to be so sacred. The intention of this Sonic Art project is to increase awareness of this issue. To achieve this, I have created an audio-visual experience using footage of natural forest environments. My hope is that by using nature to promote a sense of calm and relaxation the audience, in turn, will become more aware of the importance of nature. <br>
 <br>
