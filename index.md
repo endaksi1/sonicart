@@ -11,8 +11,8 @@ By encouraging relaxation, I’d like to direct the focus of the audience toward
 <br>
 I intend for the audience to experience this piece with headphones. I find this mode of listening to be more immersive.<br>
 <br>
-
-
+<br>
+Whilst walking through Thetford forest one morning, I noticed how the bun just outside the carpark was so overfilled that people had begun leaving rubbish in a pile on the floor in front of it. The wind had begun to blow pieces of rubbish all the way up the woodland path. Even when walking futher into the forest I was finding small pieces of rubbish, such as disposable coffee cups and plastic mcflurry spoons. This is what motivated me when working on this project.
 ![picture 1](images/Thetford trash.jpg)
 
 
