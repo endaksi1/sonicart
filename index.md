@@ -1,12 +1,17 @@
 # Title of the artwork
 ## Yannis Caff / 1605000
 
-This work ... *ltrices sapien primis nullam* netus commodo varius est habitant _convallis sollicitudin_ dis conubia vitae dapibus ut est ligula nulla leo dictumst ipsum a phasellus elit massa sed porta cras hendrerit nisl Tempor aliquet montes sodales ut venenatis augue duis quis venenatis lectus sed urna natoque litora praesent ornare habitant. Sodales orci inceptos litora, fermentum fames Orci sit. Vestibulum viverra tristique dictumst habitasse ante nibh. Turpis pede viverra elementum. Sapien. Libero turpis. Suscipit sollicitudin suscipit platea ornare iaculis conubia congue purus ante venenatis placerat, placerat id proin nisi dapibus conubia blandit. ... John Cage... A convallis faucibus tempor per suspendisse bibendum felis nulla facilisi fusce justo magnis in Cras tincidunt Felis eu congue parturient torquent aenean Interdum ridiculus quam sollicitudin. Penatibus et proin elit porta purus cursus sodales euismod. 
+Over the years, technology has become more ingrained in our society and our daily lives. This has caused many people to disconnect somewhat from reality. A result of this is the development of stress-related mental health issues in many people. Also, our awareness of the relationship between ourselves and nature is diminishing. This is assuring the decimation of our natural resources of which we used to deem to be so sacred. The intention of this Sonic Art project is to increase awareness of this issue. To achieve this, I have created an audio-visual experience using footage of natural forest environments. My hope is that by using nature to promote a sense of calm and relaxation the audience, in turn, will become more aware of the importance of nature. <br>
+<br>
+For the visuals in this project, I have used a mirror image effect to keep the audience interested. I have also tried to maintain a certain level of realism in the footage whilst using this effect. The use of symmetry in this video is based on research carried out by Alan Lightman. In his research, he suggests we are naturally drawn to symmetry as we are "hardwired to create order out of chaos". Maintaining interest is becoming an increasingly difficult task to achieve. This is the causation of a society that offers so many forms of mental stimulation.<br>
+<br>
+For the audio in this piece, I chose to make use only of sounds sourced by nature. I made this decision due to research by the Brighton and Sussex Medical School. Where they have found that listening to sounds recorded from nature promotes relaxation. <br>
+<br>
+By encouraging relaxation, I’d like to direct the focus of the audience towards the nature sounds. I hope for this to create a new sense of appreciation for nature in the audience. I’d also like for the audience to take this appreciation into the real world. In doing so, some may feel inclined to contribute to the preservation of their surrounding natural environments.<br>
+<br>
+I intend for the audience to experience this piece with headphones. I find this mode of listening to be more immersive.<br>
+<br>
 
-> Ramakrishna it was who said all religions are the same, like a lake to which people who are thirsty come from different directions, calling its water by different names. Furthermore this water has many different tastes. The taste of Zen for me comes from the admixture of humor, intransigence, and detachment. It makes me think of Marcel Duchamp, though for him we would have to add the erotic. 
-~ John Cage: [An Autobiographical Statement](https://www.johncage.org/autobiographical_statement.html)
-
-Sem per ornare malesuada nullam ad laoreet mauris. Lectus facilisis elit, tortor. Volutpat sociis dignissim, libero odio lectus Metus parturient cursus ultricies sagittis ullamcorper fusce tincidunt nisi ullamcorper. Nec cubilia malesuada pretium eros posuere cursus ante sollicitudin. Ante. Orci euismod malesuada dis mus eget ultrices, magna. Neque semper conubia rhoncus turpis fusce aptent sociosqu. Vitae dolor nulla pede arcu orci. Eros cras. Nostra fusce mauris lobortis parturient. Sociosqu cursus conubia libero luctus dapibus quam. Arcu. Leo ridiculus. Consequat risus quis posuere. Cursus natoque Ultricies, malesuada sagittis libero accumsan nisi dis auctor, accumsan ridiculus inceptos nam. Nisi amet tortor. Quisque nunc dui, taciti tincidunt interdum amet ante nullam hac sagittis. Magnis habitasse torquent elementum nulla mollis sapien integer massa class aenean. Netus elementum ipsum purus fringilla suspendisse vivamus mollis platea varius. Maecenas odio quis semper. Nisi sem interdum tempus eget aliquam quisque porta dis nisi duis elementum litora velit risus Sit venenatis mattis penatibus aliquet sociis.
 
 ![picture 1](images/long.jpg)
 
@@ -14,7 +19,7 @@ Sem per ornare malesuada nullam ad laoreet mauris. Lectus facilisis elit, tortor
 * that
 * what else
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hP36xoPXDnM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gfg3tKiBgn8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Magna. Lectus ridiculus, lacus primis est vivamus hendrerit arcu ac metus dictumst etiam aliquet fames ante curae; diam ac. Hymenaeos amet hac. Proin montes in mattis. Dui eu gravida. Elementum auctor curabitur torquent curae; et lorem ut posuere iaculis est Sem Mollis pulvinar ornare ut. Inceptos, vitae eros suspendisse. Dapibus proin facilisi. Dolor est praesent tincidunt dictum metus facilisi bibendum elit nisl phasellus primis porttitor tincidunt congue suscipit aliquam primis sed massa mollis aptent conubia purus at. Mollis imperdiet mauris et at elementum nunc non aliquam, donec curae; consequat. Lacus lobortis. Venenatis pharetra nunc duis mi ut urna. Euismod urna iaculis consequat cum accumsan leo gravida nisl. Vulputate, aptent cum ligula inceptos aptent pulvinar quis egestas potenti elementum tempor est aenean neque consectetuer nisl tempor quisque eros. Cum. Velit nulla condimentum eu cras praesent diam eleifend mollis dictum malesuada class. Feugiat tristique condimentum ipsum ultrices cras facilisi Porttitor nascetur sagittis.
 
