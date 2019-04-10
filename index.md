@@ -15,14 +15,6 @@ I intend for the audience to experience this piece with headphones. I find this 
 
 ![picture 1](images/long.jpg)
 
-* this 
-* that
-* what else
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gfg3tKiBgn8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/gfg3tKiBgn8" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen="" scrolling="no"></iframe></div>
 <p><br /></p>
