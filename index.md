@@ -12,7 +12,7 @@ By encouraging relaxation, I’d like to direct the focus of the audience toward
 If feel that this piece would be best experienced with headphones. I find this mode of listening to be more immersive as the headphones tend to cover up any background noise.<br>
 <br>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aVBvcdGvKHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/aVBvcdGvKHw" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen="" scrolling="no"></iframe>
 <br>
 ![picture 1](images/Thetford trash.jpg)
 <br>
