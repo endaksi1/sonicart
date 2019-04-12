@@ -9,7 +9,7 @@ For the audio in this piece, I chose to make use only of sounds sourced by natur
 <br>
 By encouraging relaxation, I’d like to direct the focus of the audience towards the nature sounds. I hope for this to create a new sense of appreciation for nature in the audience. I’d also like for the audience to take this appreciation into the real world. In doing so, some may feel inclined to contribute to the preservation of their surrounding natural environments.<br>
 <br>
-I intend for the audience to experience this piece with headphones. I find this mode of listening to be more immersive.<br>
+If feel that this piece would be best experienced with headphones. I find this mode of listening to be more immersive as the headphones tend to cover up any background noise.<br>
 <br>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aVBvcdGvKHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -21,4 +21,4 @@ Whilst walking through Thetford forest one morning, I noticed how the bun just o
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/gfg3tKiBgn8" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen="" scrolling="no"></iframe></div>
 <p><br /></p>
 <br>
-A resolition version of this video can be download [Here](https://www.dropbox.com/s/14egpx8c6iszrzd/Rediscovering%20Nature.mp4?dl=0)
+A higher resolition version of this video can be downloaded [here](https://www.dropbox.com/s/14egpx8c6iszrzd/Rediscovering%20Nature.mp4?dl=0)
